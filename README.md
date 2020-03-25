@@ -6,7 +6,7 @@ o pio está com o chute rápido e não oferece suporte a --default-timeout=infin
 Recuperei esta biblioteca de uma instalação do ano passado e está funcionando, basta jogar ela na pasta
 ~/.platformio/lib/
 
-Espero ter ajudado quem está com esse problema, visite o sedenvolvedor desta biblioteca em:
+Espero ter ajudado quem está com esse problema, visite o dedenvolvedor desta biblioteca em:
 https://github.com/olikraus
 
 E o desenvolvedor do platformio em:
